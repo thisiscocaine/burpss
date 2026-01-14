@@ -99,7 +99,7 @@ The file you need is located at: `target/burpss-4.0-ULTIMATE-jar-with-dependenci
 ## 5. How to Use
 
 1.  In Burp Suite, look for the new tab labeled **burpss**.
-2.  Click the **📸 Take 4K Screenshot** button.
+2.  Click the ** Screenshot** button.
 3.  A 10-second countdown will start on the button text.
 4.  **Important:** Bring the Burp window (or the specific tab you want to capture) to the front of your screen.
 5.  Wait for the beep sound.
